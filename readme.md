@@ -10,7 +10,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Inhumannn&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inhumannn&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Inhumannn&theme=transparent&hide_border=true)<br/>
 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Inhumannn&theme=transparent&hide_border=true" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=Inhumannn&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Inhumannn)](https://github.com/Inhumannn)
