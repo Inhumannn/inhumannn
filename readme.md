@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Inhumannn&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inhumannn&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Inhumannn)](https://github.com/Inhumannn)
+<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
