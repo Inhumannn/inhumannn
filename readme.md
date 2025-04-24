@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building websites and apps.<br>👯 I’m looking to collaborate on creative web projects.<br>🌱 I’m currently learning the basics of frontend and backend development.<br>⚡ Fun fact: I love solving problems and discovering new technologies! 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-pena-bermond)
 
 # 💻 Tech Stack:
@@ -11,4 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Inhumannn&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inhumannn&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+# 🔥 Visitor Stats:
 <img src="https://profile-counter.glitch.me/Inhumannn/count.svg" />
