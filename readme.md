@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on building websites and apps.<br>👯 I’m looking to collaborate on creative web projects.<br>🌱 I’m currently learning the basics of frontend and backend development.<br>⚡ Fun fact: I love solving problems and discovering new technologies! 
+🖥️ I’m currently working on building websites and apps.<br>
+🤝 I’m looking to collaborate on creative web projects.<br>
+📚 I’m currently learning the basics of frontend and backend development.<br>
+💡 Fun fact: I love solving problems and discovering new technologies! 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-pena-bermond)
